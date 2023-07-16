@@ -1,0 +1,25 @@
+body {color: #009EFF;
+}
+.bt{display: flex;
+justify-content: center;
+align-items: center;
+color: #009EFF;
+}
+a{text-decoration: none;
+color: #009EFF;
+}
+.a,A:hover {
+  color: #590EE6;
+}
+.cbl{
+  background-color:#ABC4FD;
+  width: 260px;height: 1000px;
+  border: 30px solid #9AB3EC;
+  border-radius:100px;
+}
+.cblno{
+  background-image:url(./cbl-no.png);
+  background-size:100%;
+  width: 100px;height: 1000px;
+  
+}
